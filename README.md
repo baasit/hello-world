@@ -1,2 +1,3 @@
 # hello-world
-github 101
+
+# a bit about myself in GitHub
